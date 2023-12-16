@@ -1,0 +1,25 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                                                          X
+X                                                          X
+X                                                          X
+X                Computer Project XII - D                  X
+X                                                          X
+X                Presented To You By Adil                  X
+X                                                          X
+X                                                          X
+X                                                          X
+X                    [III] Triangle                        X
+X                                                          X
+X                 1. Hollow                                X
+X                                                          X
+X                 2. Filled                                X
+X                                                          X
+X                 3. Return to Last Page                   X
+X                                                          X
+X                                                          X
+X                                                          X
+X                                                          X
+X                                                          X
+X  Version 1.11c                        Developed In 2022  X
+X                                                          X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

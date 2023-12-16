@@ -1,0 +1,20 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+					HELP(Graph) : Page 02/02
+					
+	* XYGraph(Xaxis, Yaxis, Shift, LineX, LineY, unitLength):
+	
+		Creates a 2D Plane Graph with Specified units,X/Y-axis length
+		and some other design elements.
+		
+		The Xaxis/Yaxis <int> argument is used to determine the length of the Axis'.
+		
+		The unitLength <int> argument is the unit size of each co-ordinate.
+		
+		The LineX,LineY <string> arguments are design elements that can be changed to
+		modify the look of the Graph. Shift <int> argument is used to determine the
+		amount of space that the graph will shift by from the left.
+		
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+

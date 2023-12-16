@@ -1,0 +1,20 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+					HELP(ThreeDGS) : Page 02/03
+
+	* Filled_Cube(Length,FILLER): 
+		This Functions creates a Solid Cube with specified Length and Filler.
+		
+		The Length <int> argument is used to determine the length of one of
+		the edges of the cube.The FILLER <string> argument will be used to 
+		fill the faces of the cube.
+		
+	* Hollow_Cube(Length,FILLER): 
+		This Functions creates a Transparent Cube with specified Length and Filler.
+		
+		The Length <int> argument is used to determine the length of one of
+		the edges of the cube.The FILLER <string> argument will be used to 
+		fill the faces of the cube.
+		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+

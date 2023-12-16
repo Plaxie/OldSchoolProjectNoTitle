@@ -1,0 +1,25 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                                                          X
+X                                                          X
+X                                                          X
+X                Computer Project XII - D                  X
+X                                                          X
+X                Presented To You By Adil                  X
+X                                                          X
+X                [I] Simple Calculations                   X
+X                                                          X
+X      To Do Some Simple Calculations You'll Have To       X
+X                                                          X
+X      Type The Calculation Itself As In: '8 + 4 = '       X
+X                                                          X
+X      And Then Press Enter To Get The Result As: 12       X
+X                                                          X
+X                          [OR]                            X
+X                                                          X
+X               R. Return To The Last Page                 X
+X                                                          X
+X               X. Return to Main Menu                     X
+X                                                          X
+X  Version 1.11c                        Developed In 2022  X
+X                                                          X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

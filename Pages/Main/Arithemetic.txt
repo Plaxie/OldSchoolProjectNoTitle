@@ -1,0 +1,25 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                                                          X
+X                                                          X
+X                                                          X
+X                Computer Project XII - D                  X
+X                                                          X
+X                Presented To You By Adil                  X
+X                                                          X
+X                    [II] Arithemetic                      X
+X                                                          X
+X                                                          X
+X               1. Simple Calculations                     X
+X                                                          X
+X               2. Matrixes (Experimental)                 X
+X                                                          X
+X               3. Calculus (Experimental)                 X
+X                                                          X
+X               4. Return To The Last Page                 X
+X                                                          X
+X                                                          X
+X                                                          X
+X                                                          X
+X  Version 1.11c                        Developed In 2022  X
+X                                                          X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

@@ -1,0 +1,20 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+					HELP(ThreeDGS) : Page 03/03
+
+	* Filled_Cuboid(Length,Width,High,FILLER): 
+		This Functions creates a Solid Cuboid with specified Length, Height, width
+		and Filler.
+		The {Length, Width, High} <int> arguments are used to determine the Dimensions
+		of the cuboid. The FILLER <string> argument will be used to 
+		fill the faces of the cube.
+		
+	* Hollow_Cuboid(Length,Width,High,FILLER): 
+		This Functions creates a Transparent Cuboid with specified Length, Height, width
+		and Filler.
+		The {Length, Width, High} <int> arguments are used to determine the Dimensions
+		of the cuboid. The FILLER <string> argument will be used to 
+		fill the faces of the cube.
+		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+

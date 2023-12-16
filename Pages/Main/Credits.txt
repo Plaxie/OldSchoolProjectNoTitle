@@ -1,0 +1,25 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                                                          X
+X                                                          X
+X                                                          X
+X                Computer Project XII - D                  X
+X                                                          X
+X                                                          X
+X                     [III] CREDITS                        X
+X                                                          X
+X                                                          X
+X              Documentation & Developement:               X
+X                                                          X
+X                  .-----<========>-----.                  X
+X                  |        Adil        |                  X
+X                  '-----<========>-----'                  X
+X                                                          X
+X                                                          X
+X                 1. Return to Main Menu                   X
+X                                                          X
+X                                                          X
+X                                                          X
+X                                                          X
+X  Version 1.11c                        Developed In 2022  X
+X                                                          X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

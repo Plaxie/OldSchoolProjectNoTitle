@@ -1,0 +1,20 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+					HELP(OneDGS) : Page 02/02
+
+	* TwoLines(Direction, Length, Sep, Type):
+		This Function creates Two lines with specified Direction, Length and
+		separation. There is only one type {"Parallel" or "ll"} as of update 1.0,
+		which may change in the near future.
+		
+		The Direction <string> argument's options are:
+		"HORIZONTAL" , "VERTICAL" , "NW" , "NE" , "SW" and "SE"
+		The latter are North-South-West-East Directions.
+		
+		The Length <int> argument is used to determine the length of both
+		The Two Straight lines. The Sep <int> argument is used to determine the
+		separation between the Two Lines. The Type <string> argument is unused
+		and changing it may provide an error.
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+

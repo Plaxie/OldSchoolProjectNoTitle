@@ -1,0 +1,19 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+					HELP(ThreeDGS) : Page 01/03
+
+	* This module contains Functions that create Three Dimensional Geometries.
+	
+	* There are some Pre-Defined Print Statements Functions at the beginning:
+	
+	* O_cube(): Prints an Opaque Cube
+	* T_cube(): Prints a Transparent Cube
+	* O_cuboid(): Prints an Opaque Cuboid
+	* T_cuboid(): Prints a Transparent Cuboid
+	
+	* The next few Functions are User-Determined.
+
+	* Go to Next Page:
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

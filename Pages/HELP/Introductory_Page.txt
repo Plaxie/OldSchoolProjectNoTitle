@@ -1,0 +1,25 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                                                          X
+X                                                          X
+X      This HELP Module was Made to Give Small Insights    X
+X      on What each Function Does or How to use it.        X
+X      To begin with the usage of HELP function start      X
+X      by referring which module you need help with        X
+X                                                          X
+X      You can do this by typing:                          X
+X                                                          X
+X      HELP ( Module Name <string> , Page Number <int> )   X
+X                                                          X
+X      To show a list of available modules use             X
+X      the following command:                              X
+X                                                          X
+X      HELP("MODULES")                                     X
+X                                                          X
+X      Help in modules will list out all the functions     X
+X      the particular Module Contains and Small info       X
+X      about each of them.                                 X
+X                                                          X
+X                                                          X
+X  Version 1.11c                        Developed In 2022  X
+X                                                          X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

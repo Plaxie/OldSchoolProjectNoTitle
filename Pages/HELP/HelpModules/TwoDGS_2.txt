@@ -1,0 +1,19 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+					HELP(TwoDGS) : Page 02/03
+
+
+	* This module contains Function that can create Two Dimensional Geometries.
+	
+	* Rectangle(Yside,Xside,FillValue):
+		This Function creates a Rectangle with a Specified Length and Width.
+		It can either be Hollow or Filled.
+		
+		The Xside <int> argument is used to Determine the Length of a Pair of Sides.
+		The length of the Next Pair pf Sides is determined by the Yside <int> argument.
+		
+		The FillValue <Boolean> argument is used to Determine
+		if the Rectangle is Hollow or Filled.
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

@@ -1,0 +1,21 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+					HELP(Interface) : Page 01/01
+	
+	* This module contains the Graphical-User-Interface [G.U.I] that assists the user
+	  to browse Through the available functions and modules with Ease. They can also be
+	  tested by user input right within the G.U.I but with limitations on customization.
+	  It is better to use the G.U.I instead of HELP() if you are interested in having
+	  a quick look at everything available without having to type each command for every 
+	  function/module in the HELP() function. The G.U.I also ignores all pre-made print
+	  statements functions.
+	 
+	* MainPage(): <=--= The Graphical-User-Interface
+	
+	* This function also has a strict mode, where the User cannot access the Unstable
+	  Functions unless and until the user enables Experimental Mode.
+	  
+	  
+	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+

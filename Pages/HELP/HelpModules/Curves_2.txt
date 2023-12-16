@@ -1,0 +1,19 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+					    HELP(Curves) : Page 02/03
+						
+	* The following function requires Parameters to be filled to work as intended.
+	
+	* Generate_Curve(size, detail, degree):
+
+		This Function takes A mod defined Function and creates a representation of the function.
+
+		Size <int> is the length of the function to be displayed.
+		Detail <int> determines the smoothness level of the function.
+		Degree <int> determines the degree of the function to be displayed.
+
+		The pre-defined functions can be modified to the user's needs via editing the
+		_{degree}D_Function(x) defined in the code.
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

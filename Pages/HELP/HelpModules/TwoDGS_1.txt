@@ -1,0 +1,20 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+					HELP(TwoDGS) : Page 01/03
+
+
+	* This module contains Function that can create Two Dimensional Geometries.
+	
+	* Square(Xside,FillValue):
+		This Function creates a Square with a Specified Length and
+		either Filled or Hollow.
+		
+		The Xside <int> argument is used to Determine the length of Each Side.
+		
+		The FillValue <Boolean> argument is used to Determine
+		if the Square is Hollow or Filled.
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+

@@ -1,0 +1,25 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                                                          X
+X                                                          X
+X                Computer Project XII - D                  X
+X                                                          X
+X                Presented To You By Adil                  X
+X                                                          X
+X ======================================================== X
+X                                                          X
+X ======================================================== X
+X .-------.-------.-------.-----.-------.-------.--------. X
+X |   7   |   8   |   9   |  /  |  sin  |  cos  |  tan   | X
+X +-------+-------+-------+-----+-------+-------+--------+ X
+X |   4   |   5   |   6   |  *  | cosec |  sec  |  cot   | X
+X +-------+-------+-------+-----+-------+-------+--------+ X
+X |   1   |   2   |   3   |  -  | power |   %   |  root  | X
+X +-------+-------+-------+-----+-------+-------+--------+ X
+X |   .   |   0   |   =   |  +  |   (   |   )   | C / CE | X
+X '-------'-------'-------'-----'-------'-------'--------' X
+X ======================================================== X
+X               Type X to return to Main Menu              X
+X                                                          X
+X  Version 1.11c                        Developed In 2022  X
+X                                                          X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

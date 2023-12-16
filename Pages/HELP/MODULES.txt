@@ -1,0 +1,25 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                                                          X
+X                                                          X
+X                LIST OF MODULES AVAILABLE                 X
+X                                                          X
+X                                                          X
+X       1. Curves ( 0-4 Degree Functions & Premades )      X
+X                                                          X
+X       2. OneDGS ( One Dimensional Geometries )           X
+X                                                          X
+X       3. TwoDGS ( Two Dimensional Geometries )           X
+X                                                          X
+X       4. ThreeDGS ( Three Dimensional Geometries )       X
+X                                                          X
+X       5. Graphs ( One and Two Dimensional Graphs )       X
+X                                                          X
+X       6. Interface ( Graphical User-Interface GUI )      X
+X                                                          X
+X       7. Extras ( Required for Some Functions )          X
+X                           ( To Work )                    X
+X                                                          X
+X                                                          X
+X  Version 1.11c                        Developed In 2022  X
+X                                                          X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

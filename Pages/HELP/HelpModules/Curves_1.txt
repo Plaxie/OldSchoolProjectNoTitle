@@ -1,0 +1,20 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+					    HELP(Curves) : Page 01/03
+						
+	* This module contains Functions that assists in the creation of Curved Structures.
+	* There are a few pre-defined print functions in the beginning of this module that print
+	  a pre-made shape or structure. These are:
+	  
+	* up_regular_parabola():
+	* down_regular_parabola():
+	* left_regular_parabola():
+	* right_regular_parabola():
+	* circle()
+	* up_semi_circle()
+	* down_semi_circle()
+	
+	* Execute them to print their respective shapes. 
+	
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+

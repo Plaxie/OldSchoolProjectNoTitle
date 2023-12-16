@@ -1,0 +1,20 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+					HELP(Graph) : Page 01/02
+					
+	* This Module has functions that can Create Graphs. There are only Two Functions as
+	  of Release 1.0, There may be more in the near future. There are also multiple
+	  Limitations in these functions due to how the function works hence may be fixed in
+	  The future updates.
+	  
+	* NumberLine(Axis,Dir):
+	
+		Creates a Number Line with Specified Length and Direction.
+		
+		The Axis <int> argument is used to determine the length of the Axis.
+		
+		The Dir <string> argument is used to determine the direction of the Graph
+	  	The Options are: 'HORIZONTAL' and 'VERTICAL'
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+

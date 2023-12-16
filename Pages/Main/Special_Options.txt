@@ -1,0 +1,25 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                                                          X
+X                                                          X
+X                                                          X
+X                Computer Project XII - D                  X
+X                                                          X
+X                Presented To You By Adil                  X
+X                                                          X
+X                                                          X
+X                                                          X
+X                 [II] Special Options                     X
+X                                                          X
+X                                                          X
+X                                                          X
+X               1. Toggle Experimental Mode                X
+X                                                          X
+X                                                          X
+X               2. Return to Main Menu                     X
+X                                                          X
+X                                                          X
+X                                                          X
+X                                                          X
+X  Version 1.11c                        Developed In 2022  X
+X                                                          X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

@@ -1,0 +1,20 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+					HELP(Extras) : Page 01/01
+	
+	* This module contains Many functions that may or may not be related to Arithmetic
+	  but, Are required for other Modules to work properly. Some of these are :-
+	  
+	* IsInteger(value): Checks if given value is an integer.
+	* IsFloat(value): Checks if given value is a float.
+	* digitCounter(x): Counts the number of digits x Has.
+	* PrintPage(FilePath): Prints the entire file Line by Line.
+	* InputToExit(): Waits for User-Input to exit the program.
+	
+	* Calculate(Expression): Evaluates the given Expression.
+	* Factorial(value): Calculates the Factorial of given value.
+	* Euler_s_Number() and e(): Calculate the Approximate value of Euler's Number
+	* All Trignometric ratios {sin,cos,tan,cot,cosec,sec}(value):  ...
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+

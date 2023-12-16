@@ -1,0 +1,19 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+					HELP(OneDGS) : Page 01/02
+
+	* This module contains Functions that will generate One Dimensional Geometries.
+	
+	* OneLine(Direction, Length):
+		This function creates a Straight line in a specified Direction and Length.
+		The Direction <string> argument has six options, These are :-
+		
+		"HORIZONTAL" , "VERTICAL" , "NW" , "NE" , "SW" and "SE"
+		
+		The latter are North-South-West-East Directions.
+		
+		The Length <int> argument is used to determine the length of
+		The Straight line
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

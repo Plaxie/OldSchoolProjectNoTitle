@@ -1,0 +1,25 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                                                          X
+X                                                          X
+X                                                          X
+X                Computer Project XII - D                  X
+X                                                          X
+X                                                          X
+X           [I] Experimental Mode Status [ON]              X
+X                                                          X
+X                                                          X
+X         "The experimental mode has been turned           X
+X                                                          X
+X          ON by the User. You can now access the          X
+X                                                          X
+X          Experimental Functions in the program"          X
+X                                                          X
+X                                                          X
+X             1. Turn OFF Experimental Mode                X
+X                                                          X
+X             2. Return to Main Menu                       X
+X                                                          X
+X                                                          X
+X  Version 1.11c                        Developed In 2022  X
+X                                                          X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
